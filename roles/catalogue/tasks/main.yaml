@@ -1,4 +1,4 @@
 - name: app_setup
   ansible.builtin.import_role:
     name: common
-    tasks_from: app_setup.yaml
+    tasks_from: app-setup.yaml
